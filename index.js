@@ -4,4 +4,4 @@ const app = express()
 app.get('/',(req,res)=>{
     res.send('ola mundo');
 })
-app.listen(3000)
+app.listen(2000)
